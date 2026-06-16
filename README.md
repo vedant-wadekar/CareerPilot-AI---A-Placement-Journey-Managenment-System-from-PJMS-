@@ -1,7 +1,16 @@
 # Placement Journey Management System (PJMS)
 
-A production-ready, full-stack web application designed to streamline campus recruitment drives, profile tracking, and career readiness. Integrated with **Google Gemini AI** to act as a career co-pilot, providing resume scoring, skill-gap roadmaps, custom interview prep, and text rewrites.
+A production-ready, full-stack web application designed to streamline campus recruitment drives, profile tracking, and career readiness. Integrated with **Google Gemini AI** to act as a career co-pilot, providing resume scoring, skill-gap roadmaps, custom interview prep, and text rewrites.<br>
 
+CareerPilot AI – Placement Journey Management System
+🚀 Live Demo
+Frontend
+
+https://careerpilot-ai-seven-red.vercel.app
+
+Backend API
+
+https://careerpilot-backend-pg1i.onrender.com
 ---
 
 ## 🌟 Key Features
