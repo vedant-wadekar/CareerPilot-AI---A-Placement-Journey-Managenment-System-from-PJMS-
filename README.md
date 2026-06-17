@@ -9,6 +9,7 @@ Frontend
 
 https://careerpilot-ai-seven-red.vercel.app
 
+<br>
 Backend API
 
 https://careerpilot-backend-pg1i.onrender.com
